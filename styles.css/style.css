@@ -95,7 +95,7 @@ body {
 }
 
 .sitenav-items:not(:last-child) {
-  margin-right: 16px;
+  margin-right: 32px;
 }
 
 .sitenav-link {
@@ -327,10 +327,4 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
-}
-
-/* SITE-FOOTER-LOGO */
-.site-footer-logo {
-
 }
